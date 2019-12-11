@@ -11,7 +11,7 @@ require 'directors_database'
 
 def directors_totals(nds)
   result = {}
-  idx = 0
+  idx = 0 # idx == index
   
   while idx < nds.count
   
