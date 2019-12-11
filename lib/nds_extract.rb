@@ -1,4 +1,5 @@
 require 'directors_database'
+# if I use a method that deviates from the curriculum. It's because I"m reading ruby docs at https://www.devdocs.io
 
 # Write a method that, given an NDS creates a new Hash
 # The return value should be like:
